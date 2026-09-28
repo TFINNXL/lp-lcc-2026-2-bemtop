@@ -1,3 +1,5 @@
+package br.ufpb.dcx.vinicius.costa.lp;
+
 import javax.swing.JOptionPane;
 public class cidadeNome {
     public static void main(String[] args){
